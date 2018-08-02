@@ -2,13 +2,13 @@
 
 A simple tmux windows manager.
 
-##Install
+## Install
 
 ```yaml
 $ pip3 install pmuxy
 ```
 
-##Commands
+## Commands
 
 List all configurations under ~/.pmuxy:
 ```
@@ -21,7 +21,7 @@ $ pmuxy open <configuration>
 ```
 pmuxy will look for the first session on the tmux server and open a new window in there.
 
-##Configuration
+## Configuration
 
 Configuration files are simple yaml files and they should be stored under ~/.pmuxy
 
