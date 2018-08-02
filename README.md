@@ -1,3 +1,4 @@
+[![PyPI version](https://badge.fury.io/py/pmuxy.svg)](https://badge.fury.io/py/pmuxy)
 # pmuxy
 
 A simple tmux windows manager.
