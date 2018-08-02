@@ -28,7 +28,7 @@ Configuration files are simple yaml files and they should be stored under ~/.pmu
 Example file:
 ```yaml
 window_name: test-window
-attach:false
+attach: false
 shell_commands:
   - export TEST_VAR=test #Sets a new variable
 tmux_commands:
